@@ -1,0 +1,31 @@
+Autores de esta versión https://github.com/rogervsk8/ORFA
+
+Jairo Muenala
+jairo.muenala@epn.edu.ec
+
+Marco Pastrano
+vinicio.pastrano@epn.edu.ec
+
+Fernando Cuichan
+fernando.cuichan@epn.edu.ec
+
+Roger Vega
+roger.vega@epn.edu.ec
+
+Inti Poaquiza
+inti.poaquiza@epn.edu.ec
+
+
+
+
+Autores de la primera versión (SourceForge) http://sourceforge.net/p/orfa/
+
+Efrén Sandoval
+Erika Jaramillo
+Andrés Jhonatan Rodríguez
+Omar Humberto Zarabia Zuniga
+Jairo Muenala
+Marco Pastrano
+Fernando Cuichan
+Roger Vega
+Inti Poaquiza
